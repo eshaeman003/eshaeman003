@@ -18,20 +18,33 @@
 ## 🙋‍♀️ Who I Am
 
 ```typescript
-const eshaEman = {
-  title: "Software Engineering Student",
-  focus: "Front-End Development & UI/UX Design",
-  university: "Capital University of Science and Technology",
-  stack: {
-    languages: ["C++", "Python", "Java", "HTML", "CSS"],
-    frontend: ["HTML5", "CSS3"],
-    backend: ["Python", "Java"],
-    design: ["Figma"],
-  },
-  launchedProjects: ["taxnet-AI", "connect-four-game-project", "my-portfolio"],
-  certifications: [], // add as you earn them
-  status: "Building, designing & leveling up my dev skills 🚀",
-  spentTime: "front-end + UI/UX > everything else 😄",
+const esha = {
+  role: "Software Engineering Student",
+
+  passion: [
+    "Frontend Development",
+    "UI/UX Design",
+    "Human-Centered Design"
+  ],
+
+  building: [
+    "Responsive Web Applications",
+    "Interactive UI Designs",
+    "Personal Portfolio"
+  ],
+
+  learning: [
+    "React",
+    "Flutter",
+    "Cloud Computing",
+    "Artificial Intelligence"
+  ],
+
+  philosophy:
+    "I believe great software starts with understanding people before writing code.",
+
+  mission:
+    "Transforming ideas into intuitive, accessible, and visually engaging digital experiences."
 };
 ```
 
@@ -137,7 +150,7 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me:)
 
 <div align="center">
 
