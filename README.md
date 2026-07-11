@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E8B4C8,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/eshaeman003">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Fira+Code&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
@@ -114,7 +110,11 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshaeman003&show_icons=true&hide_border=true&title_color=F4C2C2&icon_color=9CAF88&text_color=ffffff&bg_color=1e2327" alt="GitHub Stats" height="165"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=Public%20Repos&query=%24.public_repos&color=9CAF88&style=for-the-badge&logoColor=white" alt="Public Repos" height="35"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=Followers&query=%24.followers&color=F4C2C2&style=for-the-badge&logoColor=white" alt="Followers" height="35"/>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=eshaeman003&hide_border=true&ring=F4C2C2&fire=9CAF88&currStreakLabel=F4C2C2&background=1e2327" alt="GitHub Streak" height="165"/>
 
 </div>
@@ -147,8 +147,4 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=150&section=footer&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=150&section=footer&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=150&section=footer&animation=twinkling" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,50:E8B4C8,100:F4C2C2&height=150&section=footer&animation=fadeIn" width="100%"/>
