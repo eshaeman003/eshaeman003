@@ -44,7 +44,11 @@ const eshaEman = {
 An AI-powered Knowledge Graph platform built for a hackathon, designed to help Pakistan's FBR detect elite tax evasion by connecting fragmented data silos and identifying lifestyle-income gaps.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaeman003&repo=taxnet-AI&theme=default&title_color=9CAF88&icon_color=F4C2C2&border_color=F4C2C2" alt="taxnet-AI"/>
+
+[![Repo](https://img.shields.io/badge/repo-taxnet--AI-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/taxnet-AI)
+![Language](https://img.shields.io/github/languages/top/eshaeman003/taxnet-AI?style=for-the-badge&color=9CAF88&labelColor=1e2327)
+![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/taxnet-AI?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
+
 </div>
 
 | Layer | Technology |
@@ -62,7 +66,11 @@ An AI-powered Knowledge Graph platform built for a hackathon, designed to help P
 A semester 6 group project for Artificial Intelligence, built as a playable version of the classic Connect Four game.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaeman003&repo=connect-four-game-project&theme=default&title_color=9CAF88&icon_color=F4C2C2&border_color=F4C2C2" alt="Connect Four Game Project"/>
+
+[![Repo](https://img.shields.io/badge/repo-connect--four--game--project-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/connect-four-game-project)
+![Language](https://img.shields.io/github/languages/top/eshaeman003/connect-four-game-project?style=for-the-badge&color=9CAF88&labelColor=1e2327)
+![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/connect-four-game-project?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
+
 </div>
 
 | Layer | Technology |
