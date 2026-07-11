@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+</picture>
 
 <a href="https://github.com/eshaeman003">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Fira+Code&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
@@ -34,6 +38,16 @@ const eshaEman = {
   spentTime: "front-end + UI/UX > everything else 😄",
 };
 ```
+
+<br/>
+
+## 🌱 Currently Learning & 2026 Goals
+
+- 🎯 Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
+- 🎨 Leveling up UI/UX case studies in Figma
+- 💼 Landing my first working student / internship role in data or software
+- 📚 Exploring backend basics in Python & Java alongside front-end work
+- 🤝 Contributing to more group/AI projects like taxnet-AI
 
 <br/>
 
@@ -96,10 +110,29 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-## 📊 Contribution Activity
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eshaeman003&show_icons=true&hide_border=true&title_color=F4C2C2&icon_color=9CAF88&text_color=ffffff&bg_color=1e2327" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=eshaeman003&hide_border=true&ring=F4C2C2&fire=9CAF88&currStreakLabel=F4C2C2&background=1e2327" alt="GitHub Streak" height="165"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaeman003&theme=react-dark&hide_border=true&color=F4C2C2&line=F4C2C2&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph"/>
+</picture>
 </div>
 
 <br/>
@@ -114,4 +147,8 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=150&section=footer&animation=twinkling"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=150&section=footer&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,100:9CAF88&height=150&section=footer&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,100:F4C2C2&height=150&section=footer&animation=twinkling" width="100%"/>
+</picture>
