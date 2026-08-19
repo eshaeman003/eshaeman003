@@ -19,7 +19,7 @@
 
 ```typescript
 const esha = {
-  role: "Software Engineering Student",
+  role: "Software Engineer",
 
   passion: [
     "Frontend Development",
