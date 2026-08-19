@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🙋‍♀️ Who I Am
+##  Who Am I
 
 ```typescript
 const esha = {
@@ -52,15 +52,15 @@ const esha = {
 
 ## 🌱 Currently Learning & 2026 Goals
 
-- 🎯 Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
-- 🎨 Leveling up UI/UX case studies in Figma
-- 💼 Landing my first working student / internship role in data or software
-- 📚 Exploring backend basics in Python & Java alongside front-end work
-- 🤝 Contributing to more group/AI projects like taxnet-AI
+-  Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
+-  Leveling up UI/UX case studies in Figma
+-  Landing my first working student / internship role in data or software
+-  Exploring backend basics in Python & Java alongside front-end work
+-  Contributing to more group/AI projects like taxnet-AI
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🏛️ taxnet-AI
 
@@ -105,7 +105,7 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -119,7 +119,7 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
