@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://api.dicebear.com/9.x/lorelei/png?seed=Hana&backgroundColor=9caf88&backgroundType=solid&hair=variant46&hairColor=000000&glassesProbability=100&glasses=variant04&mouth=happy05&blushProbability=100&blush=variant01" width="120" alt="avatar"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b0bd-833cf5efc2ba.gif" width="100%"/>
 
 <br/><br/>
 
