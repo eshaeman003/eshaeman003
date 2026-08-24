@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E8B4C8,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
-<img src="https://raw.githubusercontent.com/eshaeman003/eshaeman003/main/image.png" width="110" alt="chibi avatar"/>
+<img src="./image.png" width="110" alt="chibi avatar"/>
 <a href="https://github.com/eshaeman003">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Playfair+Display&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
 </a>
