@@ -3,31 +3,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E8B4C8,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/eshaeman003">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Fira+Code&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Fira+Code&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers + Stars, all in one row -->
 <img src="https://komarev.com/ghpvc/?username=eshaeman003&color=F4C2C2&style=for-the-badge&label=PROFILE+VIEWS" height="30"/>
 <img src="https://img.shields.io/github/followers/eshaeman003?color=9CAF88&style=for-the-badge&label=FOLLOWERS&labelColor=1e2327" height="30"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=PUBLIC%20REPOS&query=%24.public_repos&color=E8B4C8&style=for-the-badge&labelColor=1e2327" height="30"/>
 
 <br/><br/>
 
-<!-- Quick nav -->
-<a href="#-who-am-i">Who Am I</a> •
-<a href="#-currently-learning--2026-goals">Goals</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-github-stats">Stats</a> •
-<a href="#-connect-with-me">Connect</a>
-
-</div>
+<sub><a href="#who-am-i">Who Am I</a> &nbsp;·&nbsp; <a href="#currently-learning--2026-goals">Goals</a> &nbsp;·&nbsp; <a href="#featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp; <a href="#connect-with-me">Connect</a></sub>
 
 <br/>
+<img width="100%" height="1" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## 👋 Who Am I
+</div>
+<br/>
+
+### Who Am I
 
 ```typescript
 const esha = {
@@ -62,145 +57,87 @@ const esha = {
 
 <br/>
 
-## 🌱 Currently Learning & 2026 Goals
+### Currently Learning &nbsp;&amp;&nbsp; 2026 Goals
 
-- 🔹 Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
-- 🔹 Leveling up UI/UX case studies in Figma
-- 🔹 Landing my first working student / internship role in data or software
-- 🔹 Exploring backend basics in Python & Java alongside front-end work
-- 🔹 Contributing to more group/AI projects like taxnet-AI
+<table>
+<tr><td>
+
+- Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
+- Leveling up UI/UX case studies in Figma
+- Landing my first working student / internship role in data or software
+- Exploring backend basics in Python & Java alongside front-end work
+- Contributing to more group/AI projects like taxnet-AI
+
+</td></tr>
+</table>
 
 <br/>
 
-## 🚀 Featured Projects
+### Featured Projects
 
-### 🏛️ taxnet-AI
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**taxnet-AI**
 
 An AI-powered Knowledge Graph platform built for a hackathon, designed to help Pakistan's FBR detect elite tax evasion by connecting fragmented data silos and identifying lifestyle-income gaps.
 
-<div align="center">
+`Knowledge Graph / GNNs` · `GovTech · Explainable AI` · `Python`
 
-[![Repo](https://img.shields.io/badge/repo-taxnet--AI-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/taxnet-AI)
-![Language](https://img.shields.io/github/languages/top/eshaeman003/taxnet-AI?style=for-the-badge&color=9CAF88&labelColor=1e2327)
-![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/taxnet-AI?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
-![Repo Size](https://img.shields.io/github/repo-size/eshaeman003/taxnet-AI?style=for-the-badge&color=E8B4C8&labelColor=1e2327)
+[View Repository →](https://github.com/eshaeman003/taxnet-AI)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-| Layer | Technology |
-|-------|------------|
-| Concept | Knowledge Graph / GNNs |
-| Domain | GovTech / Explainable AI |
-| Core Logic | Python |
-
-**[🔗 Code](https://github.com/eshaeman003/taxnet-AI)**
-
-<br/>
-
-### 🔴 Connect Four Game Project
+**Connect Four Game Project**
 
 A semester 6 group project for Artificial Intelligence, built as a playable version of the classic Connect Four game.
 
-<div align="center">
+`Python / AI Search` · `Group Project`
 
-[![Repo](https://img.shields.io/badge/repo-connect--four--game--project-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/connect-four-game-project)
-![Language](https://img.shields.io/github/languages/top/eshaeman003/connect-four-game-project?style=for-the-badge&color=9CAF88&labelColor=1e2327)
-![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/connect-four-game-project?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
-![Repo Size](https://img.shields.io/github/repo-size/eshaeman003/connect-four-game-project?style=for-the-badge&color=E8B4C8&labelColor=1e2327)
+[View Repository →](https://github.com/eshaeman003/connect-four-game-project)
 
-</div>
+</td>
+</tr>
+</table>
 
-| Layer | Technology |
-|-------|------------|
-| Logic | Python / AI Search |
-| Type | Group Project |
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
 
-**[🔗 Code](https://github.com/eshaeman003/connect-four-game-project)**
-
-<br/>
-
-### 🌐 Personal Portfolio
+**Personal Portfolio**
 
 My personal portfolio site — a home base for my projects, skills, and design work.
 
-<div align="center">
+[View Repository →](https://github.com/eshaeman003/my-portfolio)
 
-[![Repo](https://img.shields.io/badge/repo-my--portfolio-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/my-portfolio)
-![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/my-portfolio?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
-
-</div>
-
-**[🔗 Code](https://github.com/eshaeman003/my-portfolio)**
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js" />
-
-<br/><br/>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,git,github,vscode" />
-
-<br/><br/>
-
-**Design**
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-<br/>
-
-## 📊 GitHub Stats
+### Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshaeman003&show_icons=true&theme=react&hide_border=true&bg_color=1e2327&title_color=F4C2C2&icon_color=9CAF88&text_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaeman003&layout=compact&theme=react&hide_border=true&bg_color=1e2327&title_color=F4C2C2&text_color=ffffff" alt="Top Languages" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=eshaeman003&hide_border=true&ring=F4C2C2&fire=9CAF88&currStreakLabel=F4C2C2&background=1e2327" alt="GitHub Streak" height="165"/>
+<img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js,react,flutter,figma,git,github,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaeman003&theme=react-dark&hide_border=true&color=F4C2C2&line=F4C2C2&point=ffffff&area=true" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph"/>
-</picture>
-</div>
-
-<br/>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
+### Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-eman-2133b535a/)
 [![Email](https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshaeman003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e2327?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/my-portfolio)
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,50:E8B4C8,100:F4C2C2&height=150&section=footer&animation=fadeIn" width="100%"/>
