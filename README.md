@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://api.dicebear.com/9.x/lorelei/png?seed=Hana&backgroundColor=9caf88&backgroundType=solid&hair=variant24&hairColor=000000&glassesProbability=100&glasses=variant04" width="120" alt="avatar"/>
+<img src="https://api.dicebear.com/9.x/lorelei/png?seed=Hana&backgroundColor=9caf88&backgroundType=solid&hair=variant46&hairColor=000000&glassesProbability=100&glasses=variant04&mouth=happy05&blushProbability=100&blush=variant01" width="120" alt="avatar"/>
 
 <br/><br/>
 
