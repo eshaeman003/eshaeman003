@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E8B4C8,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=EshaEman&backgroundColor=F4C2C2,E8B4C8,9CAF88&backgroundType=gradientLinear&size=120" width="110" alt="chibi avatar"/>
+<br/>
+
+<img src="https://api.dicebear.com/7.x/lorelei/svg?seed=Hana&backgroundColor=9CAF88&hair=long18&hairColor=000000&glasses=variant04&glassesProbability=100" width="120" alt="avatar"/>
+
+<br/><br/>
 
 <a href="https://github.com/eshaeman003">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Playfair+Display&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
