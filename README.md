@@ -8,14 +8,26 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=eshaeman003&color=F4C2C2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/eshaeman003?color=F4C2C2&style=flat-square&label=Followers)
+<!-- Profile Views + Followers + Stars, all in one row -->
+<img src="https://komarev.com/ghpvc/?username=eshaeman003&color=F4C2C2&style=for-the-badge&label=PROFILE+VIEWS" height="30"/>
+<img src="https://img.shields.io/github/followers/eshaeman003?color=9CAF88&style=for-the-badge&label=FOLLOWERS&labelColor=1e2327" height="30"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=PUBLIC%20REPOS&query=%24.public_repos&color=E8B4C8&style=for-the-badge&labelColor=1e2327" height="30"/>
+
+<br/><br/>
+
+<!-- Quick nav -->
+<a href="#-who-am-i">Who Am I</a> •
+<a href="#-currently-learning--2026-goals">Goals</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-connect-with-me">Connect</a>
 
 </div>
 
 <br/>
 
-##  Who Am I
+## 👋 Who Am I
 
 ```typescript
 const esha = {
@@ -52,15 +64,15 @@ const esha = {
 
 ## 🌱 Currently Learning & 2026 Goals
 
--  Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
--  Leveling up UI/UX case studies in Figma
--  Landing my first working student / internship role in data or software
--  Exploring backend basics in Python & Java alongside front-end work
--  Contributing to more group/AI projects like taxnet-AI
+- 🔹 Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
+- 🔹 Leveling up UI/UX case studies in Figma
+- 🔹 Landing my first working student / internship role in data or software
+- 🔹 Exploring backend basics in Python & Java alongside front-end work
+- 🔹 Contributing to more group/AI projects like taxnet-AI
 
 <br/>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### 🏛️ taxnet-AI
 
@@ -71,6 +83,7 @@ An AI-powered Knowledge Graph platform built for a hackathon, designed to help P
 [![Repo](https://img.shields.io/badge/repo-taxnet--AI-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/taxnet-AI)
 ![Language](https://img.shields.io/github/languages/top/eshaeman003/taxnet-AI?style=for-the-badge&color=9CAF88&labelColor=1e2327)
 ![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/taxnet-AI?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
+![Repo Size](https://img.shields.io/github/repo-size/eshaeman003/taxnet-AI?style=for-the-badge&color=E8B4C8&labelColor=1e2327)
 
 </div>
 
@@ -93,6 +106,7 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 [![Repo](https://img.shields.io/badge/repo-connect--four--game--project-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/connect-four-game-project)
 ![Language](https://img.shields.io/github/languages/top/eshaeman003/connect-four-game-project?style=for-the-badge&color=9CAF88&labelColor=1e2327)
 ![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/connect-four-game-project?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
+![Repo Size](https://img.shields.io/github/repo-size/eshaeman003/connect-four-game-project?style=for-the-badge&color=E8B4C8&labelColor=1e2327)
 
 </div>
 
@@ -105,11 +119,32 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-##  Tech Stack
+### 🌐 Personal Portfolio
+
+My personal portfolio site — a home base for my projects, skills, and design work.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/repo-my--portfolio-F4C2C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshaeman003/my-portfolio)
+![Last Commit](https://img.shields.io/github/last-commit/eshaeman003/my-portfolio?style=for-the-badge&color=F4C2C2&labelColor=1e2327)
+
+</div>
+
+**[🔗 Code](https://github.com/eshaeman003/my-portfolio)**
+
+<br/>
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,java,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js" />
+
+<br/><br/>
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,git,github,vscode" />
 
 <br/><br/>
 
@@ -119,12 +154,12 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=Public%20Repos&query=%24.public_repos&color=9CAF88&style=for-the-badge&logoColor=white" alt="Public Repos" height="35"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=Followers&query=%24.followers&color=F4C2C2&style=for-the-badge&logoColor=white" alt="Followers" height="35"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eshaeman003&show_icons=true&theme=react&hide_border=true&bg_color=1e2327&title_color=F4C2C2&icon_color=9CAF88&text_color=ffffff" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaeman003&layout=compact&theme=react&hide_border=true&bg_color=1e2327&title_color=F4C2C2&text_color=ffffff" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
@@ -135,7 +170,7 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaeman003&theme=react-dark&hide_border=true&color=F4C2C2&line=F4C2C2&point=ffffff" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaeman003&theme=react-dark&hide_border=true&color=F4C2C2&line=F4C2C2&point=ffffff&area=true" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -150,7 +185,15 @@ A semester 6 group project for Artificial Intelligence, built as a playable vers
 
 <br/>
 
-## 🔗 Connect With Me:)
+## 💬 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
 
 <div align="center">
 
