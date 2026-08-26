@@ -4,12 +4,14 @@
 ======================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B983FF,50:E7A6C7,100:1A1822&height=220&section=header&text=Esha%20Eman&fontSize=42&fontColor=F1EEE8&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B983FF,50:E7A6C7,100:1A1822&height=220&section=header&text=Esha%20Eman%20🐾&fontSize=42&fontColor=F1EEE8&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="70" alt="Cute Cat Waving"/>
+  <br/>
   <a href="https://github.com/eshaeman003">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Human-Centered+Digital+Experiences;Frontend+Architecture+%26+Tactile+UI;Building+taxnet-AI+%26+Connect+Four;Exploring+HCI+%26+Creative+Code&font=Playfair+Display&center=true&width=620&height=45&color=C9B6FF&vCenter=true&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Human-Centered+Digital+Experiences;Frontend+Architecture+%26+Tactile+UI;Building+taxnet-AI+%26+Connect+Four;Exploring+HCI+%26+Creative+Code;Fueled+by+Cats+%26+Clean+Aesthetics+🐾&font=Playfair+Display&center=true&width=620&height=45&color=C9B6FF&vCenter=true&size=20" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,22 +43,24 @@
 <br/>
 
 <!-- =======================================================
-  02 // SCRAPBOOK / ABOUT ME
+  02 // SCRAPBOOK / ABOUT ME & COMPANION
 ======================================================== -->
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="68%" valign="top">
       <h4><font color="#B983FF">INDEX // ABOUT ME</font></h4>
       <h3><i><font color="#F1EEE8">"Great software starts with understanding people before writing code."</font></i></h3>
-      <p><font color="#C9B6FF">Hi, I'm <b>Esha Eman</b> — a Software Engineering student bridging the space between algorithmic logic and intuitive, tactile user interfaces. I treat the browser as an interactive canvas, building responsive applications that feel as natural to use as they are performant under the hood.</font></p>
+      <p><font color="#C9B6FF">Hi, I'm <b>Esha Eman</b> — a Software Engineering student bridging the space between engineering logic and intuitive, tactile user interfaces. I treat the browser as an interactive canvas, building responsive applications that feel as natural to use as they are performant under the hood.</font></p>
       <p>
         <img src="https://img.shields.io/badge/Role-Software%20Engineer%20Student-B983FF?style=flat-square&labelColor=1A1822" alt="Role" />
         <img src="https://img.shields.io/badge/Specialization-UI%2FUX%20%26%20Frontend-E7A6C7?style=flat-square&labelColor=1A1822" alt="Specialization" />
         <img src="https://img.shields.io/badge/Location-Pakistan-C9B6FF?style=flat-square&labelColor=1A1822" alt="Location" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github-profile-trophy.vercel.app/?username=eshaeman003&theme=radical&no-frame=true&no-bg=true&margin_w=4&row=2&column=2" alt="Trophies" width="100%" />
+    <td width="32%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/7NoNw427M0lO0/giphy.gif" width="130" alt="Cute Bongo Cat Typing" style="border-radius: 12px;"/>
+      <br/>
+      <sub><font color="#E7A6C7"><i>co-coding with bongo cat</i></font></sub>
     </td>
   </tr>
 </table>
@@ -64,13 +68,42 @@
 <br/>
 
 <!-- =======================================================
-  03 // SKILLS & TOOLKIT
+  03 // BADGES & ACHIEVEMENTS
 ======================================================== -->
-<h4><font color="#E7A6C7">CATALOGUE // SKILLS &amp; ARSENAL</font></h4>
+<h4><font color="#E7A6C7">HONORS // BADGES &amp; ACHIEVEMENTS</font></h4>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><font color="#F1EEE8">🏆 Competitions &amp; Hackathons</font></b><br/>
+      <sub><font color="#C9B6FF">• Built <b>taxnet-AI</b> for GovTech Tax Fraud Detection</font></sub><br/>
+      <sub><font color="#C9B6FF">• Top AI Project Award candidate in AI Coursework (Connect Four Search)</font></sub><br/>
+      <sub><font color="#C9B6FF">• Active Participant in Open-Source &amp; Design Hackathons</font></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><font color="#B983FF">🎖️ Verified Credentials</font></b><br/>
+      <img src="https://img.shields.io/badge/GitHub-Verified%20Author-B983FF?style=flat-square&logo=github&logoColor=white&labelColor=1A1822" alt="Badge" />
+      <img src="https://img.shields.io/badge/HCI%20%26%20Design-Specialist-E7A6C7?style=flat-square&logo=figma&logoColor=white&labelColor=1A1822" alt="Badge" />
+      <img src="https://img.shields.io/badge/AI%20Coursework-Semester%206-C9B6FF?style=flat-square&logo=python&logoColor=white&labelColor=1A1822" alt="Badge" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eshaeman003&theme=radical&no-frame=true&no-bg=true&margin_w=6&row=1&column=6" alt="GitHub Trophies" width="95%" />
+</div>
+
+<br/>
+
+<!-- =======================================================
+  04 // SKILLS & TOOLKIT
+======================================================== -->
+<h4><font color="#B983FF">CATALOGUE // SKILLS &amp; ARSENAL</font></h4>
 
 | <font color="#B983FF">🎨 UI &amp; INTERACTION</font> | <font color="#E7A6C7">📐 PRODUCT &amp; DESIGN</font> | <font color="#B983FF">⚙️ LOGIC &amp; SYSTEMS</font> |
 | :--- | :--- | :--- |
-| • React.js &amp; Modern JS (ES6+)<br/>• HTML5 Semantics &amp; CSS3 Modules<br/>• Tailwind &amp; Responsive Layouts<br/>• Flutter (Cross-platform UI)<br/>• Micro-interactions &amp; Web Animation | • Figma &amp; Design System Systems<br/>• Wireframing &amp; High-Fi Prototyping<br/>• User Journeys &amp; Persona Mapping<br/>• HCI &amp; Usability Heuristics<br/>• Visual Storytelling &amp; Moodboarding | • Python &amp; Data Workflows<br/>• Java &amp; C++ OOP Fundamentals<br/>• Git / GitHub Version Control<br/>• Cybersecurity Fundamentals<br/>• AI Search &amp; Graph Concepts |
+| • React.js &amp; Modern JS (ES6+)<br/>• HTML5 Semantics &amp; CSS3 Modules<br/>• Tailwind &amp; Responsive Layouts<br/>• Flutter (Cross-platform UI)<br/>• Micro-interactions &amp; Web Animation | • Figma &amp; Design Systems<br/>• Wireframing &amp; High-Fi Prototyping<br/>• User Journeys &amp; Persona Mapping<br/>• HCI &amp; Usability Heuristics<br/>• Visual Storytelling &amp; Moodboarding | • Python &amp; Data Workflows<br/>• Java &amp; C++ OOP Fundamentals<br/>• Git / GitHub Version Control<br/>• Cybersecurity Fundamentals<br/>• AI Search &amp; Graph Concepts |
 
 <div align="center">
   <br/>
@@ -80,9 +113,9 @@
 <br/>
 
 <!-- =======================================================
-  04 // FEATURED WORKS & CASE STUDIES
+  05 // FEATURED WORKS & CASE STUDIES
 ======================================================== -->
-<h4><font color="#B983FF">WORKS // SELECTED PROJECTS</font></h4>
+<h4><font color="#E7A6C7">WORKS // SELECTED PROJECTS</font></h4>
 
 <table width="100%">
   <tr>
@@ -122,9 +155,9 @@
 <br/>
 
 <!-- =======================================================
-  05 // GITHUB DATA & STATS METRICS
+  06 // GITHUB DATA & STATS METRICS
 ======================================================== -->
-<h4><font color="#E7A6C7">METRICS // GITHUB INTELLIGENCE</font></h4>
+<h4><font color="#B983FF">METRICS // GITHUB INTELLIGENCE</font></h4>
 
 <div align="center">
   <table width="100%">
@@ -144,9 +177,10 @@
 <br/>
 
 <!-- =======================================================
-  06 // FOOTER & CONNECT DIRECTORY
+  07 // FOOTER & CONNECT DIRECTORY
 ======================================================== -->
 <div align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="60" alt="Cute Sleeping Cat" />
   <h3><font color="#F1EEE8">✦ Let's Build Something Meaningful</font></h3>
   <p><font color="#C9B6FF">Whether you're looking for a frontend developer, collaborating on AI/design, or just want to connect:</font></p>
 
