@@ -1,183 +1,106 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2C2,50:E8B4C8,100:9CAF88&height=220&section=header&text=Hi,%20I'm%20Esha%20Eman&fontSize=42&fontColor=1e2327&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/eshaeman003">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+taxnet-AI+%26+Connect+Four;Always+learning+something+new&font=Playfair+Display&center=true&width=600&height=45&color=F4C2C2&vCenter=true&size=22" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=eshaeman003&color=F4C2C2&style=for-the-badge&label=PROFILE+VIEWS" height="30"/>
-<img src="https://img.shields.io/github/followers/eshaeman003?color=9CAF88&style=for-the-badge&label=FOLLOWERS&labelColor=1e2327" height="30"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=PUBLIC%20REPOS&query=%24.public_repos&color=E8B4C8&style=for-the-badge&labelColor=1e2327" height="30"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:D4BCC8,100:FDFEF5&height=220&section=header&text=ESHA%20EMAN&fontSize=50&fontColor=FDFEF5&animation=fadeIn&fontAlignY=35&desc=frontend%20developer%20%2B%20visual%20thinker&descAlignY=56&descSize=18&descColor=FDFEF5" width="100%" alt="Esha Eman"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3200&pause=900&color=D4BCC8&center=true&vCenter=true&width=620&lines=building+soft+interfaces+with+sharp+edges;turning+ideas+into+useful+experiences;code+%E2%80%A2+design+%E2%80%A2+curiosity" alt="A typing animation with Esha's tagline"/>
+  <br/><br/>
+  <a href="https://github.com/eshaeman003?tab=repositories"><img src="https://img.shields.io/badge/17_public_repositories-333333?style=flat-square&labelColor=333333&color=D4BCC8&logo=github&logoColor=FDFEF5" alt="Public repositories"/></a>
+  <a href="https://github.com/eshaeman003?tab=followers"><img src="https://img.shields.io/github/followers/eshaeman003?style=flat-square&label=followers&labelColor=333333&color=D4BCC8&logo=github&logoColor=FDFEF5" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=eshaeman003&style=flat-square&color=D4BCC8&label=profile+views&labelColor=333333" alt="Profile views"/>
 </div>
 
 <br/>
 
-<h2 align="center"><font face="Georgia">Who Am I</font></h2>
+<table width="100%" border="0">
+  <tr>
+    <td width="33%" align="center"><img src="./assets/esha-avatar.jpg" width="190" alt="Pixel-art portrait of Esha"/></td>
+    <td width="34%" align="center">
+      <h2>hello, i'm esha ✦</h2>
+      <p><em>software engineering student · frontend developer · UI/UX designer</em></p>
+      <p>I like making digital spaces feel clear, expressive, and a little unexpected — thoughtful interfaces backed by practical code.</p>
+    </td>
+    <td width="33%" align="center"><img src="./assets/chrome-stars.jpg" width="190" alt="Chrome star accessories"/></td>
+  </tr>
+</table>
 
-```typescript
-const esha = {
-role: "Software Engineer",
+<div align="center"><img src="./assets/pink-hand.jpg" width="170" alt="Pink hand with playful nail art"/></div>
 
-passion: [
-"Frontend Development",
-"UI/UX Design",
-"Human-Centered Design"
-],
+<p align="center"><sub>my visual north star: graphite, milk, soft lilac, chrome details, and just enough weirdness.</sub></p>
 
-building: [
-"Responsive Web Applications",
-"Interactive UI Designs",
-"Personal Portfolio"
-],
+## currently in the studio
 
-learning: [
-"React",
-"Flutter",
-"Cloud Computing",
-"Artificial Intelligence"
-],
+- sharpening front-end fundamentals with modern JavaScript, CSS, and React
+- exploring backend foundations in Python and Java, plus cloud and AI concepts
+- shaping UI/UX case studies in Figma and building more human-centered interfaces
+- looking for opportunities where software, design, and problem-solving overlap
 
-philosophy:
-"I believe great software starts with understanding people before writing code.",
+## selected work
 
-mission:
-"Transforming ideas into intuitive, accessible, and visually engaging digital experiences."
-};
-```
+<table width="100%">
+  <tr>
+    <td width="50%"><a href="https://github.com/eshaeman003/taxnet-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaeman003&repo=taxnet-AI&theme=transparent&hide_border=true&title_color=D4BCC8&text_color=FDFEF5&icon_color=D4BCC8&border_color=333333" alt="taxnet-AI repository card"/></a></td>
+    <td width="50%"><a href="https://github.com/eshaeman003/health-checking-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaeman003&repo=health-checking-app&theme=transparent&hide_border=true&title_color=D4BCC8&text_color=FDFEF5&icon_color=D4BCC8&border_color=333333" alt="health-checking-app repository card"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/eshaeman003/connect-four-game-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaeman003&repo=connect-four-game-project&theme=transparent&hide_border=true&title_color=D4BCC8&text_color=FDFEF5&icon_color=D4BCC8&border_color=333333" alt="Connect Four repository card"/></a></td>
+    <td width="50%"><a href="https://github.com/eshaeman003/figma-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaeman003&repo=figma-projects&theme=transparent&hide_border=true&title_color=D4BCC8&text_color=FDFEF5&icon_color=D4BCC8&border_color=333333" alt="Figma projects repository card"/></a></td>
+  </tr>
+</table>
 
-<br/>
+<details>
+<summary><strong>a closer look at the projects</strong></summary>
 
-<h2 align="center"><font face="Georgia">Currently Learning &amp; 2026 Goals</font></h2>
+| project | what it explores |
+| --- | --- |
+| [taxnet-AI](https://github.com/eshaeman003/taxnet-AI) | knowledge graphs, entity resolution, GovTech, and explainable AI |
+| [health-checking-app](https://github.com/eshaeman003/health-checking-app) | a supportive interface for reflecting on sleep, energy, mood, and when to ask for help |
+| [connect-four-game-project](https://github.com/eshaeman003/connect-four-game-project) | an AI-focused semester project built around the classic game |
+| [figma-projects](https://github.com/eshaeman003/figma-projects) | interface studies from HCI and computer graphics coursework |
 
-- Sharpening front-end fundamentals — deeper into JavaScript & modern CSS
-- Leveling up UI/UX case studies in Figma
-- Landing my first working student / internship role in data or software
-- Exploring backend basics in Python & Java alongside front-end work
-- Contributing to more group/AI projects like taxnet-AI
+</details>
 
-<br/>
-
-<h2 align="center"><font face="Georgia">Featured Projects</font></h2>
-
-<h3>taxnet-AI</h3>
-
-An AI-powered Knowledge Graph platform built for a hackathon, designed to help Pakistan's FBR detect elite tax evasion by connecting fragmented data silos and identifying lifestyle-income gaps.
+## toolbox
 
 <div align="center">
-
-![Repo](https://github.com/eshaeman003/taxnet-AI)
-!Language
-!Last Commit
-!Repo Size
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,java,cpp,flutter,figma,git,github&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React, Python, Java, C++, Flutter, Figma, Git, and GitHub"/>
 </div>
 
-| Layer | Technology |
-|-------|------------|
-| Concept | Knowledge Graph / GNNs |
-| Domain | GovTech / Explainable AI |
-| Core Logic | Python |
-
-**Code →**
-
-<br/>
-
-<h3>Connect Four Game Project</h3>
-
-A semester 6 group project for Artificial Intelligence, built as a playable version of the classic Connect Four game.
+## the data, but make it soft
 
 <div align="center">
-
-![Repo](https://github.com/eshaeman003/connect-four-game-project)
-!Language
-!Last Commit
-!Repo Size
-
-</div>
-
-| Layer | Technology |
-|-------|------------|
-| Logic | Python / AI Search |
-| Type | Group Project |
-
-**Code →**
-
-<br/>
-
-<h3>Personal Portfolio</h3>
-
-My personal portfolio site — a home base for my projects, skills, and design work.
-
-<div align="center">
-
-![Repo](https://github.com/eshaeman003/my-portfolio)
-!Last Commit
-
-</div>
-
-**Code →**
-
-<br/>
-
-<h2 align="center"><font face="Georgia">Tech Stack</font></h2>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js" />
-
-<br/><br/>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,git,github,vscode" />
-
-<br/><br/>
-
-**Design**
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-<br/>
-
-<h2 align="center"><font face="Georgia">GitHub Stats</font></h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=Public%20Repos&query=%24.public_repos&color=9CAF88&style=for-the-badge&logoColor=white" alt="Public Repos" height="35"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&label=Followers&query=%24.followers&color=F4C2C2&style=for-the-badge&logoColor=white" alt="Followers" height="35"/>
-
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=eshaeman003&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4BCC8&text_color=FDFEF5&icon_color=D4BCC8&ring_color=D4BCC8&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaeman003&layout=compact&hide_border=true&bg_color=00000000&title_color=D4BCC8&text_color=FDFEF5&icon_color=D4BCC8&langs_count=8" alt="Top languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaeman003&theme=react-dark&hide_border=true&color=F4C2C2&line=F4C2C2&point=ffffff&area=true" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com?user=eshaeman003&theme=transparent&hide_border=true&ring=D4BCC8&fire=D4BCC8&currStreakLabel=D4BCC8&sideLabels=FDFEF5&dates=FDFEF5&sideNums=FDFEF5&currStreakNum=FDFEF5" alt="GitHub contribution streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph"/>
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaeman003&bg_color=333333&color=FDFEF5&line=D4BCC8&point=FDFEF5&area=true&hide_border=true&custom_title=contribution%20rhythm" width="96%" alt="GitHub contribution activity graph"/>
 </div>
 
 <br/>
 
-<h2 align="center"><font face="Georgia">Connect With Me</font></h2>
-
 <div align="center">
-
-![LinkedIn](https://www.linkedin.com/in/esha-eman-2133b535a/)
-![Email](mailto:eshaeman003@gmail.com)
-![Portfolio](https://github.com/eshaeman003/my-portfolio)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/eshaeman003/eshaeman003/output/github-contribution-grid-snake.svg" alt="Contribution graph snake animation"/>
+  </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CAF88,50:E8B4C8,100:F4C2C2&height=150&section=footer&animation=fadeIn" width="100%"/>
+## say hi
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/esha-eman-2133b535a/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=FDFEF5&color=D4BCC8" alt="LinkedIn"/></a>
+  <a href="mailto:eshaeman003@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=FDFEF5&color=D4BCC8" alt="Email"/></a>
+  <a href="https://github.com/eshaeman003?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-333333?style=for-the-badge&logo=github&logoColor=FDFEF5&color=D4BCC8" alt="Explore repositories"/></a>
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDFEF5,50:D4BCC8,100:333333&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer decoration"/></div>
