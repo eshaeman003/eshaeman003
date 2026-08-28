@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-labelledby="title">
+  <title id="title">Decorative chrome lilac star</title>
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDFEF5"/>
+      <stop offset="0.4" stop-color="#D4BCC8"/>
+      <stop offset="0.7" stop-color="#8C7C88"/>
+      <stop offset="1" stop-color="#FDFEF5"/>
+    </linearGradient>
+  </defs>
+  <circle cx="22" cy="22" r="20" fill="#17191D" stroke="#D4BCC8" stroke-width="2"/>
+  <path d="M22 6l3.8 11.9L38 22l-12.2 4.1L22 38l-3.8-11.9L6 22l12.2-4.1Z" fill="url(#chrome)"/>
+  <circle cx="22" cy="22" r="3" fill="#FDFEF5"/>
+</svg>
