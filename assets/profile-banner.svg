@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Esha Eman profile banner</title>
+  <desc id="desc">A graphite, milk, and soft lilac banner for Esha Eman's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17191D"/>
+      <stop offset="0.6" stop-color="#333333"/>
+      <stop offset="1" stop-color="#D4BCC8"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="34" r="150" fill="#D4BCC8" opacity=".18" filter="url(#soft)"/>
+  <circle cx="1100" cy="250" r="120" fill="#FDFEF5" opacity=".12" filter="url(#soft)"/>
+  <path d="M0 244 C190 204 270 292 472 242 S830 174 1200 238 L1200 300 L0 300Z" fill="#FDFEF5" opacity=".06"/>
+  <g fill="#FDFEF5" opacity=".82" font-family="Georgia, serif">
+    <text x="82" y="126" font-size="62" letter-spacing="7">ESHA EMAN</text>
+    <text x="88" y="170" font-size="22" letter-spacing="2" fill="#D4BCC8">frontend developer  ·  visual thinker</text>
+  </g>
+  <g fill="#D4BCC8" opacity=".9">
+    <path d="M1010 95 l8 20 22 1-17 14 6 22-19-12-19 12 6-22-17-14 22-1z"/>
+    <path d="M1110 155 l6 15 17 1-13 10 5 17-15-9-15 9 5-17-13-10 17-1z"/>
+    <circle cx="1027" cy="212" r="5"/><circle cx="1146" cy="78" r="4"/>
+  </g>
+</svg>
