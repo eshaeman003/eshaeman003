@@ -35,24 +35,24 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/eshaeman003/taxnet-AI">taxnet-AI ↗</a></h3>
+      <h3><img src="./assets/project-spark.svg" width="18" height="18" alt=""/> <a href="https://github.com/eshaeman003/taxnet-AI">taxnet-AI</a> <sub>explore</sub></h3>
       <p>Knowledge graphs, entity resolution, GovTech, and explainable AI for detecting lifestyle-income gaps.</p>
       <sub>Python · AI · hackathon project</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/eshaeman003/health-checking-app">health-checking-app ↗</a></h3>
+      <h3><img src="./assets/project-spark.svg" width="18" height="18" alt=""/> <a href="https://github.com/eshaeman003/health-checking-app">health-checking-app</a> <sub>explore</sub></h3>
       <p>A supportive interface for reflecting on sleep, energy, mood, and when to ask for help.</p>
       <sub>TypeScript · wellness interface</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/eshaeman003/connect-four-game-project">connect-four-game-project ↗</a></h3>
+      <h3><img src="./assets/project-spark.svg" width="18" height="18" alt=""/> <a href="https://github.com/eshaeman003/connect-four-game-project">connect-four-game-project</a> <sub>explore</sub></h3>
       <p>An AI-focused semester project built around the classic game.</p>
       <sub>AI · group project · game logic</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/eshaeman003/figma-projects">figma-projects ↗</a></h3>
+      <h3><img src="./assets/project-spark.svg" width="18" height="18" alt=""/> <a href="https://github.com/eshaeman003/figma-projects">figma-projects</a> <sub>explore</sub></h3>
       <p>Interface studies from HCI and computer graphics coursework.</p>
       <sub>Figma · HCI · visual design</sub>
     </td>
