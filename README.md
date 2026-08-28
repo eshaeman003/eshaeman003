@@ -78,6 +78,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/esha-eman-2133b535a/">LinkedIn</a> ·
   <a href="mailto:eshaeman003@gmail.com">Email</a> ·
+  <a href="https://www.figma.com/@eshe284">Figma</a> ·
   <a href="https://github.com/eshaeman003?tab=repositories">Explore my repositories</a>
 </div>
 
