@@ -3,7 +3,7 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3200&pause=900&color=D4BCC8&center=true&vCenter=true&width=620&lines=building+soft+interfaces+with+sharp+edges;turning+ideas+into+useful+experiences;code+%E2%80%A2+design+%E2%80%A2+curiosity" alt="A typing animation with Esha's tagline"/>
   <br/><br/>
-  <a href="https://github.com/eshaeman003?tab=repositories"><img src="https://img.shields.io/badge/17_public_repositories-333333?style=flat-square&labelColor=333333&color=D4BCC8&logo=github&logoColor=FDFEF5" alt="Public repositories"/></a>
+  <a href="https://github.com/eshaeman003?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Feshaeman003&query=%24.public_repos&label=public%20repositories&style=flat-square&labelColor=333333&color=D4BCC8&logo=github&logoColor=FDFEF5" alt="Public repositories"/></a>
   <a href="https://github.com/eshaeman003?tab=followers"><img src="https://img.shields.io/github/followers/eshaeman003?style=flat-square&label=followers&labelColor=333333&color=D4BCC8&logo=github&logoColor=FDFEF5" alt="GitHub followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=eshaeman003&style=flat-square&color=D4BCC8&label=profile+views&labelColor=333333" alt="Profile views"/>
 </div>
