@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Esha Eman — frontend developer and visual thinker"/>
   <br/><br/>
   <p><strong>software engineer · frontend developer · UI/UX designer</strong></p>
-  <p>building soft interfaces with sharp edges — useful products, expressive visuals, and code that stays human.</p>
+  <p>building soft interfaces with sharp edges - useful products, expressive visuals, and code that stays human.</p>
   <p>update: learning game development and becoming expert in figma/unity</p>
     <a href="https://esha-eman-portfolio-six.vercel.app/">my portfolio</a>
 </div>
