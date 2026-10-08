@@ -56,7 +56,7 @@
     <td width="50%" valign="top">
       <h3><img src="./assets/project-spark.svg" width="18" height="18" alt=""/> <a href="https://github.com/eshaeman003/figma-projects">figma-projects</a> <sub>explore</sub></h3>
       <p>Interface studies from HCI and computer graphics coursework.</p>
-      <sub>Figma · HCI · visual design</sub>
+      <sub>Figma · HCI · UI/UX designer</sub>
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@
 ## say hi
 
 <div align="center">
-  <a href="https://esha-eman-portfolio-six.vercel.app/">my portfolio</a>
+  <a href="https://esha-eman-portfolio-six.vercel.app/">My portfolio</a>
   <a href="https://www.linkedin.com/in/esha-eman-2133b535a/">LinkedIn</a> ·
   <a href="mailto:eshaeman003@gmail.com">Email</a> ·
   <a href="https://www.figma.com/@eshe284">Figma</a> ·
