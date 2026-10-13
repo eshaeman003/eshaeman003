@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
   <img src="./assets/profile-banner.svg" width="100%" alt="Esha Eman — frontend developer and UI/UX designer"/>
   <br/><br/>
   <p><strong>software engineer · frontend developer · UI/UX designer</strong></p>
