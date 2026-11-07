@@ -4,7 +4,9 @@
   <p><strong>software engineer · frontend developer · UI/UX designer</strong></p>
   <p>building soft interfaces with sharp edges - useful products, expressive visuals, and code that stays human.</p>
   <p>update: learning game development and becoming expert in figma/unity</p>
-    <a href="https://esha-eman-portfolio-wsjd.vercel.app">my portfolio</a>
+  <a href="https://esha-eman-portfolio-wsjd.vercel.app">
+    <img src="./assets/portfolio-button.svg" width="270" alt="visit my portfolio"/>
+  </a>
 </div>
 
 <br/>
